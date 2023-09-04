@@ -17,5 +17,5 @@ I love the spot in Goa for its unique blend of **natural beauty**  and **vibrant
  - Prawn Balchão
  - Shark Ambot Tik
  - Samarachi Kodi
- - Prawns & shrims
+ - Prawns & shrimps
 
