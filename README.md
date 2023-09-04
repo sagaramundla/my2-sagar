@@ -13,9 +13,9 @@ I love the spot in Goa for its unique blend of **natural beauty**  and **vibrant
 
 ****
 ## Unorderdlist:
-- Tuna Fish
-- Prawn Balchão
-- Shark Ambot Tik
-- Samarachi Kodi
-- Prawns & shrims
+ - Tuna Fish
+ - Prawn Balchão
+ - Shark Ambot Tik
+ - Samarachi Kodi
+ - Prawns & shrims
 
