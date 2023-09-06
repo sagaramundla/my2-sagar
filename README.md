@@ -19,3 +19,6 @@ I love the spot in Goa for its unique blend of **natural beauty**  and **vibrant
  - Samarachi Kodi
  - Prawns & shrimps
 
+ ### Link to MyStats.md:
+ *https://github.com/sagaramundla/my2-sagar/blob/main/MyStats.md*
+
