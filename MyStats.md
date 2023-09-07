@@ -36,6 +36,59 @@ Sports are physical activities or games that involve physical exertion and skill
 ****
 
 
+## Code Fencing:
+
+Stack overflow Link:
+
+
+
+
+# ```Sass```
+
+Code Snippet:
+
+``````
+
+@mixin stripes($direction, $colors) {
+  $length: length($colors);
+  
+  @if $length > 1 {
+    $stripes: ();
+    
+    @for $i from 1 through $length {
+      $stripe: (100% / $length) * ($i - 1);
+      
+      @if $i > 1 {
+        $stripes: append($stripes, nth($colors, $i - 1) $stripe, comma);
+      }
+      
+      $stripes: append($stripes, nth($colors, $i) $stripe, comma);
+    }
+    
+    background-image: linear-gradient($direction, $stripes);
+  } @else if $length == 1 {
+    background-color: $colors;
+  }
+}
+
+USAGE:
+
+body {
+  @include stripes(to right, #8e44ad #2c3e50 #2980b9 #16a085 #27ae60);
+}
+
+``````
+Code Link: <https://css-tricks.com/snippets/sass/striped-gradient-mixin/>
+
+
+
+
+
+
+
+
+
+
 
 
 
