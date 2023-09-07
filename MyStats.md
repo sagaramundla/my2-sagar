@@ -75,7 +75,7 @@ body {
 <br>
 
 
-[Striped gradient mixin](https://css-tricks.com/snippets/sass/striped-gradient-mixin)
+Click here for Snippet Code: [Striped gradient mixin](https://css-tricks.com/snippets/sass/striped-gradient-mixin)
 
 
 
