@@ -38,16 +38,11 @@ Sports are physical activities or games that involve physical exertion and skill
 
 ## Code Fencing:
 
-Stack overflow Link:
+>[My Stackoverflow link](https://stackoverflow.com/questions/60051847/an-scss-function-to-give-order-to-elements)
 
 
 
-
-# ```Sass```
-
-Code Snippet:
-
-``````
+```
 
 @mixin stripes($direction, $colors) {
   $length: length($colors);
@@ -76,9 +71,11 @@ USAGE:
 body {
   @include stripes(to right, #8e44ad #2c3e50 #2980b9 #16a085 #27ae60);
 }
+```
+<br>
 
-``````
-Code Link: <https://css-tricks.com/snippets/sass/striped-gradient-mixin/>
+
+[Striped gradient mixin](https://css-tricks.com/snippets/sass/striped-gradient-mixin)
 
 
 
