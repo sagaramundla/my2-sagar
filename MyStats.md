@@ -4,7 +4,30 @@ I am a very enthusiastic person, and this trait has been a part of me since my c
 
 ****
 
-![Sagar](sagarimage.jpeg)
+![Sagar](sagarimage.jpeg) 
+
+
+****
+
+## Sports:
+
+Sports are physical activities or games that involve physical exertion and skill. They are often organized into competitive events or played for recreational purposes. Sports can be individual or team-based and are popular worldwide like Squash Ball,Hockey,Boxing,football,tennis
+|NAME|REASON|NO.OF HOURS|
+|----|------|-----------|
+|Squash Ball|Physical Skill|1 hour|
+|Hockey|a team sport|45 min
+|Boxing|Strength&Fitness|1 hour
+|football|a team sports|1 hour
+|tennis|fun|2 hour|
+
+****
+
+
+
+
+
+
+
 
 
 
