@@ -20,9 +20,20 @@ Sports are physical activities or games that involve physical exertion and skill
 |football|a team sports|1 hour
 |tennis|fun|2 hour|
 
+
 ****
 
 
+## Quotes
+
+>Amateurs built the Ark, professionals built the Titanic-___BEN CARSON___
+
+>Learn to value yourself, which means: fight for your happiness-*AYN RAND*
+
+>A person can die, but his goodness remains forever -___CHANAKYA___
+
+
+****
 
 
 
